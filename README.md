@@ -1,5 +1,5 @@
 # Icanonlecrawl
-按时爬取acl网站上的论文
+按时爬取acl和crossmind网站上的论文pdf和vedio
 
 环境
   python3
